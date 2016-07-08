@@ -159,6 +159,12 @@ TARGET_PROVIDES_LIBLIGHT := true
 # Malloc
 MALLOC_IMPL := dlmalloc
 
+# Optimizations
+STRICT_ALIASING := false
+ENABLE_GCCONLY := true
+GRAPHITE_OPTS := false
+USE_PIPE := true
+
 # Peripheral manager
 TARGET_PER_MGR_ENABLED := true
 
