@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "TeamOrion/device_qcom_common",
+   "target_path": "device/qcom/common"
+ },
+ {
+   "repository": "TeamOrion-Devices/kernel_xiaomi_msm8956",
+   "target_path": "kernel/xiaomi/msm8956"
+ }
+ {
+   "repository": "TeamOrion-Devices/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi"
+ }
+]
