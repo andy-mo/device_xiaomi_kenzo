@@ -140,7 +140,9 @@ PRODUCT_PACKAGES += \
 # IPACM
 PRODUCT_PACKAGES += \
     IPACM_cfg.xml \
-    ipacm
+    ipacm \
+    libnfnetlink \
+    libnetfilter_conntrack
 
 # IRQ
 PRODUCT_COPY_FILES += \
