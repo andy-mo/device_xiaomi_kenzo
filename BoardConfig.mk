@@ -151,6 +151,7 @@ MALLOC_IMPL := dlmalloc
 
 # Optimizations
 STRICT_ALIASING := false
+CLANG_O3 := true
 ENABLE_GCCONLY := true
 GRAPHITE_OPTS := false
 USE_PIPE := true
